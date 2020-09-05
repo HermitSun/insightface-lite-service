@@ -1,0 +1,6 @@
+# model files
+models/*.params
+models/*.json
+
+# test data
+test_data/
