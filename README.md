@@ -92,7 +92,8 @@ pip install fastapi \
    编码问题。按照指示设置环境变量即可：
 
    ```shell
-   export LC_ALL=C.UTF-8                                                                       export LANG=C.UTF-8
+   export LC_ALL=C.UTF-8
+   export LANG=C.UTF-8
    ```
 
 3. 图片识别失败 / 明明有人脸却无法识别 / 相似度过低
