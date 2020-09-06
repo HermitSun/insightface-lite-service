@@ -1,0 +1,11 @@
+# IDE config
+.idea/
+
+# cache
+**/__pycache__/
+
+# README
+README.md
+
+# dependencies
+requirements.txt
